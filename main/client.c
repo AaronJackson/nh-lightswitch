@@ -323,7 +323,7 @@ switch_t switches[] = {
   },
   {
     .name = "Walk Way Far On",
-    .pin = 21,
+    .pin = 16, // was 21
     .pattern_on = 174,
     .pattern_off = 174,
     .flags = 0,
